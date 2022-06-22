@@ -1,0 +1,18 @@
+[
+    {
+        "package": "ggseg",
+        "url": "https://github.com/ggseg/ggseg"
+    },
+    {
+        "package": "ggseg3d",
+        "url": "https://github.com/ggseg/ggseg3d"
+    },
+    {
+        "package": "ggsegExtra",
+        "url": "https://github.com/ggseg/ggsegExtra"
+    },
+    {
+        "package": "metagam",
+        "url": "https://github.com/Lifebrain/metagam"
+    }
+]
