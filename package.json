@@ -14,5 +14,17 @@
     {
         "package": "metagam",
         "url": "https://github.com/Lifebrain/metagam"
+    },
+    {
+       "package": "semtree",
+        "url": "https://github.com/brandmaier/semtree"
+    },
+    {
+        "package": "regsem",
+        "url": "https://github.com/Rjacobucci/regsem"
+    },
+    {
+        "package": "efast",
+        "url": "https://github.com/vankesteren/efast"
     }
 ]
