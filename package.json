@@ -26,5 +26,8 @@
     {
         "package": "efast",
         "url": "https://github.com/vankesteren/efast"
-    }
+    },
+    {
+        "package": "ICED",
+        "url": "https://github.com/sdparsons/ICED"
 ]
